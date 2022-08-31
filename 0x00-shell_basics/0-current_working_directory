@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#This is a sript that prints the absolute pathname to the current working directory
+
+/root/alx-system_engineering-devops/0x00-shell_basics
+
