@@ -1,1 +1,1 @@
-A script that prints the path name to the current working repo which is pwd
+A script that changes directory to home
