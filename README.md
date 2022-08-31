@@ -1,1 +1,1 @@
-0x00 README
+The command to print lists of the current directory
